@@ -1,7 +1,4 @@
-fun main(args: Array<String>){
-
-    var nome = "Rodrigo Barros"
-
-    println(nome)
-
+fun main() {
+    println("Hello World") 
+    
 }
